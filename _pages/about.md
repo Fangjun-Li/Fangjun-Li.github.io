@@ -16,9 +16,9 @@ redirect_from:
 Hello there! I'm Fangjun Li (李芳君).
 
 
-As a Ph.D. student in [AI Group](https://artificial-intelligence.leeds.ac.uk/s) at School of Computing, University of Leeds, I'm fortunate to be mentored by [Prof. Anthony Cohn](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-tony-g-cohn-freng-ceng-citp) and [Prof. David Hogg](https://eps.leeds.ac.uk/computing/staff/84/professor-david-hogg). I received my B.S. and M.S. degree in School of Information Science and Engineering, Shandong University (Project 211, Project 985), China. During my master period, I was supervised by [Prof. Dongfeng Yuan](https://brain.sdu.edu.cn/en/info/1090/1163.htm).
+As a Ph.D. student in [AI Group](https://artificial-intelligence.leeds.ac.uk) at School of Computing, University of Leeds, I'm fortunate to be mentored by [Prof. Anthony Cohn](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-tony-g-cohn-freng-ceng-citp) and [Prof. David Hogg](https://eps.leeds.ac.uk/computing/staff/84/professor-david-hogg). I received my B.S. and M.S. degree in School of Information Science and Engineering, Shandong University (Project 211, Project 985), China. During my master period, I was supervised by [Prof. Dongfeng Yuan](https://ieeexplore.ieee.org/author/37276438900).
 
-Research
+Research Intrests
 ======
 My research area is in Knowledge Representation and Reasoning, and Large Language Models. Specifically, ontologies, knowledge graphs, qualitative spatial reasoning, logical programming, prompt engineering, and foundation model evaluation.
 
