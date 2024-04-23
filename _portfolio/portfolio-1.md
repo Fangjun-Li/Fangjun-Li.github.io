@@ -1,6 +1,6 @@
 ---
 title: "Reframing Spatial Reasoning Evaluation in Language Models"
-excerpt: "This work builds a real-world simulation benchmark for evaluating spatial reasoning abilities of language models.<br/><img src='/images/combined.gif'>"
+excerpt: "This work builds a real-world simulation benchmark for evaluating spatial reasoning abilities of language models.<br/><img src='/images/IJCAI-00.gif'>"
 collection: portfolio
 ---
 

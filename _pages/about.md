@@ -16,7 +16,7 @@ redirect_from:
 Hello there! I'm Fangjun Li (李芳君).
 
 
-As a Ph.D. student in [AI Group](https://artificial-intelligence.leeds.ac.uk) at School of Computing, University of Leeds, I'm fortunate to be mentored by [Prof. Anthony Cohn](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-tony-g-cohn-freng-ceng-citp) and [Prof. David Hogg](https://eps.leeds.ac.uk/computing/staff/84/professor-david-hogg). I received my B.S. and M.S. degree in School of Information Science and Engineering, Shandong University (Project 211, Project 985), China. During my master period, I was supervised by [Prof. Dongfeng Yuan](https://ieeexplore.ieee.org/author/37276438900).
+As a Ph.D. student in [AI Group](https://artificial-intelligence.leeds.ac.uk) at School of Computing, University of Leeds, I'm fortunate to be mentored by [Prof. Anthony Cohn](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-tony-g-cohn-freng-ceng-citp) and [Prof. David Hogg](https://eps.leeds.ac.uk/computing/staff/84/professor-david-hogg). I received my B.S. and M.S. degree in School of Information Science and Engineering, Shandong University (Project 985), China. During my Master's, I conducted research at the [WMCT Laboratory](http://www.icon.sdu.edu.cn/English/Home.htm), supervised by [NA. Minggao Zhang](https://ysg.ckcest.cn/html/details/634/index.html) and [Prof. Dongfeng Yuan](https://ieeexplore.ieee.org/author/37276438900).
 
 Research Intrests
 ======
