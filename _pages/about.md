@@ -8,9 +8,34 @@ redirect_from:
 ---
 
 
-🎓 I'm a final year Ph.D. Student in Computing, University of Leeds, UK
+<!-- 🎓 I'm a final year Ph.D. Student in Computing, University of Leeds, UK -->
 
-🔍 My research interests are Artificial Intelligence, Knowledge Representation & Reasoning, and Foundation Models.
+<!-- 🔍 My research interests are Artificial Intelligence, Knowledge Representation & Reasoning, and Foundation Models. -->
+
+
+Hello there! I'm Fangjun Li (李芳君).
+
+
+As a Ph.D. student in [AI Group](https://artificial-intelligence.leeds.ac.uk/s) at School of Computing, University of Leeds, I'm fortunate to be mentored by [Prof. Anthony Cohn](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-tony-g-cohn-freng-ceng-citp) and [Prof. David Hogg](https://eps.leeds.ac.uk/computing/staff/84/professor-david-hogg). I received my B.S. and M.S. degree in School of Information Science and Engineering, Shandong University (Project 211, Project 985), China. During my master period, I was supervised by [Prof. Dongfeng Yuan](https://brain.sdu.edu.cn/en/info/1090/1163.htm).
+
+Research
+======
+My research area is in Knowledge Representation and Reasoning, and Large Language Models. Specifically, ontologies, knowledge graphs, qualitative spatial reasoning, logical programming, prompt engineering, and foundation model evaluation.
+
+News
+======
+[04/2024] Our Paper was accepted by [IJCAI-2024](https://ijcai24.org/).
+
+[12/2023] Our Paper was accepted by [AAAI-2024](https://ojs.aaai.org/index.php/AAAI/article/view/29811).
+
+<!-- Presentation
+======
+![PPT01](/images/PPT01.png)
+![PPT02](/images/PPT02.png)
+![PPT03](/images/PPT03.png)
+![PPT04](/images/PPT04.png)
+![PPT05](/images/PPT05.png)
+![PPT06](/images/PPT06.png) -->
 
 <!-- A data-driven personal website
 ======
