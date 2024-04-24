@@ -1,10 +1,10 @@
 ---
 title: "Reframing Spatial Reasoning Evaluation in Language Models"
 excerpt: "This work builds a real-world simulation benchmark for evaluating spatial reasoning abilities of language models.<br/><img src='/images/IJCAI-00.gif'>"
-collection: portfolio
+collection: research
 ---
 
-### Introduction
+## Introduction
 
 Spatial reasoning plays a vital role in both human cognition and machine intelligence, prompting new research into language models' (LMs) capabilities in this regard. However, existing benchmarks reveal shortcomings in evaluating qualitative spatial reasoning (QSR). These benchmarks typically present oversimplified scenarios or unclear natural language descriptions, hindering effective evaluation. 
 
@@ -26,12 +26,12 @@ Our benchmark evaluation of advanced LM reveals their strengths and limitations 
 
 ## Problem Definition
 
-We focus on constraint satisfaction problems (CSP), defined by a set of variables \( V \) defined over a domain \( D \) and a collection of constraints \( \theta \). The goal is to find a specific instantiation where all constraints in \( \theta \) are simultaneously satisfied.
-We particularly emphasize binary constraints, which simultaneously restrict the domain of two variables. An example of this is the constraint `The desk is placed in front of the window.`
+We focus on constraint satisfaction problems (CSP), defined by a set of variables defined over a domain and a collection of constraints. The goal is to find a specific instantiation where all constraints are simultaneously satisfied.
+We particularly emphasize binary constraints, which simultaneously restrict the domain of two variables. An example of this is the constraint *The desk is placed in front of the window.*
 
 
 ## Data Generation Process
-All constructed constraint networks are transformed into textual format using the method outlined in Section `decide_t`, specifically for the purpose of evaluating LMs.
+All constructed constraint networks are transformed into textual format, specifically for the purpose of evaluating LMs.
 
 Our test sets are available in varying sizes:
 - **RoomSpace-100** includes a sample of 100 rooms.
@@ -40,7 +40,7 @@ Our test sets are available in varying sizes:
 
 The initial 100 rooms in **RoomSpace-1K** (ID 0-99) are identical to those in **RoomSpace-100**. Similarly, the first 1,000 rooms in **RoomSpace-10K** (ID 0-999) match those in **RoomSpace-1K**.
 
-## Specify Spatial Relationships
+### Specify Spatial Relationships
 For spatial relationship constraints, we focus on three categories: topological relations, directional relations, and distance relations. These are employed to articulate the positioning of objects within rooms and the inter-object relationships.
 
 ![Editing a markdown file for a talk](/images/IJCAI24-03.png)
@@ -49,8 +49,8 @@ For spatial relationship constraints, we focus on three categories: topological 
 ![Editing a markdown file for a talk](/images/IJCAI24-04.png)
 *An overview of directional and distance spatial relationships: The left image displays the room's spatial divisions. The middle image displays both directional and distance-based relationships among objects from a top-down view.  The right image illustrates directional relations as seen from a north-facing perspective.*
 
-## Creating Reasoning Story, Questions and Answers
-Our benchmark offers a variety of stories with varying levels of complexity, accomplished by adjusting two key parameters: \( n \) for object selection and \( p_1 \) for constraint determination.
+### Creating Reasoning Story, Questions and Answers
+Our benchmark offers a variety of stories with varying levels of complexity, accomplished by adjusting two key parameters: `$n$` for object selection and `$p_1$` for constraint determination.
 
 ![Editing a markdown file for a talk](/images/IJCAI24-05.png)
 

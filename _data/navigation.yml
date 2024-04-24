@@ -10,13 +10,13 @@ main:
   #   url: /teaching/    
     
   - title: "Research"
-    url: /portfolio/
+    url: /research/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/Fangjun_resume.pdf
+    url: /files/FangjunLi_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/

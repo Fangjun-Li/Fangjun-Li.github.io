@@ -12,7 +12,7 @@ title                    : "Fangjun Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://fangjun-li.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fangjun-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fangjun-li.github.io/"
 
@@ -207,6 +207,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -254,6 +257,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
